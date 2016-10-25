@@ -1,0 +1,3 @@
+Assets are available on Unity asset store, direct downloads are covered by the asset store license
+
+https://unity3d.com/legal/as_terms
